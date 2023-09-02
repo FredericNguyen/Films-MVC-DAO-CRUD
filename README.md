@@ -3,6 +3,7 @@ Project done in class using a teacher's code as base. I learned a lot about stru
 
 This app uses nodemon for handling package dependecies. 
 -npm install allows you to load them up into node_modules.
+-npm run go runs the server at localhost:8383
 
 ## Description
 This app uses web languages, TypeScript, and Bootstrap 5 library to make things look pretty.
