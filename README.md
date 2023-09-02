@@ -13,4 +13,4 @@ MVC pattern was used for handling user requests, deploy the correct function eve
 update movies.
 
 I have also learned the usage of multer to upload images, allowing me to have a time-stamped binary file of the image itself on the
-server side that gets brought up when needed by the client. Movie by default had their own poster links that our teacher fetched for usfrom an API. 
+server side that gets brought up when needed by the client. Movie by default had their own poster links that our teacher fetched for us from an API. 
